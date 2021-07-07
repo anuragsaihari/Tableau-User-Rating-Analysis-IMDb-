@@ -20,6 +20,8 @@ There are multiple ways by which you can view my dashboards:
 
 2. You can download the free tableau viewer software from [here.](https://www.tableau.com/products/reader/download) Download my tableau files and open the files in the viewer.
 
-3. If you already have tableau installed in your system, then you probably already know what to do. Just download and start your analysis. Happy Analyzing!
+3. If you already have tableau installed in your system, then you probably already know what to do. Just download and start your analysis. 
 
 ***Note: 'User Rating Analysis - IMDb' is the master workbook that contains all the worksheets. The last worksheet contains a user story which has all the 3 dashboards and you can view them all together at one place. Alternatively, you can also download and view individual dashboards.***
+
+## Happy Analyzing!
